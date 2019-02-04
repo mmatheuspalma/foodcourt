@@ -1,6 +1,6 @@
-### Goomer Plaza
+### Food Court
 
-Goomer Plaza é uma plataforma que lista restaurantes e seus respectivos cardápios;
+Food Court é uma plataforma que lista restaurantes e seus respectivos cardápios;
 
 #### Requisitos
 Gerenciadores de pacotes como Npm ou Yarn ( de preferência Yarn, pela velocidade e segurança )
